@@ -10,7 +10,7 @@ def index(request):
     pass
     return render(request,'index.html')
 
-d
+print(0)
 
 
 def login(request):
