@@ -11,7 +11,7 @@ def index(request):
     return render(request,'index.html')
 
 
-
+3
 
 def login(request):
     if request.method == 'POST':
