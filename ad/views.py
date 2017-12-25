@@ -34,8 +34,6 @@ def login(request):
         # print(username,password)
         return render(request, 'login.html', {"message": message})
     return render(request,'login.html')
-#####
-###
 
 
 
